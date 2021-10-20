@@ -14,3 +14,5 @@ O que aprendi na aula 4
 - É possível passar props para o styled components, e assim vc decidir diferentes atributos para qualquer valor CSS de acordo com a prop passada no código(exemplo do isActive)
 - Uso do typescript dentro do styled components, o que é bem interessante
 - uso da função transparentize, da lib polished, que retira a opacidade da cor de acordo com a porcentagem que vc determinar, dentro do styled components ( engraçado perceber que agora o styled components está parecendo bem mais "código" mesmo, do que o CSS puro)
+- uso basico de formulário, manipulando os dados inseridos apos o submit através do event, usando event.preventDefault(), event.target.value etc.
+- Uso da lib nativa do browser ( INTL ) pra formatar a moeda e data que estamos usando no app
